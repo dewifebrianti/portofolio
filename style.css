@@ -1,0 +1,19 @@
+
+.jumbotron {
+    padding-top: 2rem;
+    background-color: #c0b7b1;
+}
+
+#projects{
+    background-color: #c0b7b1;
+}
+
+#navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.jumbotron#home {
+    margin-top: 50px;
+}
